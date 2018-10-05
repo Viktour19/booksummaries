@@ -134,4 +134,6 @@ When giving a talk, make sure to vary your voice.
 
 Your goal in giving a talk is probably not to lull your audience to sleep, but that’s exactly what you’ll do if you don’t pay attention to the way you talk. For instance, you’ve likely fallen victim to a super-boring lecturer who drawls on in a monotone. To avoid doing this to your audience, vary the way you speak. It’s as simple as using tools like volume, tone and timbre to give your speech greater range and meaning.
 
+
+
 Summary by Blinkist
