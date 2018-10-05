@@ -157,3 +157,6 @@ by Carmine Gallo
 * Your goal should not be to "deliver a presentation," but to inspire your audience, to move them, and to have them dream bigger.
 * Be real, be yourself; you'll never convince your audience of anything if they don't trust, admire, and genuinely like you.
 * Identify your lane and why you're so passionate about that lane. Stay there, hold the space, and be your true authentic self.
+
+
+Summary by [Mike Parker](https://github.com/mgp/book-notes)
